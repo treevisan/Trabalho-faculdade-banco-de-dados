@@ -4,4 +4,5 @@ Banco de dados e tabelas desenvolvidos para a disciplina de banco de dados do me
 
 Modelo conceitual das tabelas presentes no banco de dados:
 
-![](C:\Users\gabit\OneDrive\Ambiente de Trabalho\modelo conceitual banco de dados.png)
+![](https://drive.google.com/uc?export=view&id=1v7Zqn8XlU9leFqgGeO69WIJBR7KPU1H7)
+
